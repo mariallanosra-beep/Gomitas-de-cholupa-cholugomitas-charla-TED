@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+<rect width="120" height="120" rx="30" fill="#ffd23f"/>
+<circle cx="60" cy="60" r="38" fill="#93d94e"/>
+<text x="60" y="73" text-anchor="middle" font-size="46">🍬</text>
+</svg>
